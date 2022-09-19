@@ -3,4 +3,43 @@
     margin: 0;
     padding: 0;
 }
-.debug
+.debug header {
+    background-color: #add8e6;
+    height: 150px;
+    
+    
+    
+}
+header{
+    padding: 20px 0;
+}
+   
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.debug .header-top{
+    background-color: #daa520;
+    height: 40px;
+}
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.debug.header-box-big{
+    background-color:#00008b ;
+    height: 300px;
+    padding: 30px 0;
+    margin: 20px 0;
+   
+    
+}
+
+.debug .header-botton{
+    background-color:#ee82ee ;
+    height: 250px;
+    width: 620px;   
+}
+
