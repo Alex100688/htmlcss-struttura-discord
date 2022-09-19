@@ -30,7 +30,7 @@ header{
 
 .debug.header-box-big{
     background-color:#00008b ;
-    height: 300px;
+    height: 400px;
     padding: 30px 0;
     margin: 20px 0;
    
@@ -42,4 +42,26 @@ header{
     height: 250px;
     width: 620px;   
 }
-
+section{
+    padding: 60px 0;
+    
+}
+.debug .window{
+    height: 400px;
+}
+.window{
+    display: flex;
+    
+}
+.debug .window-big{
+    background-color: #1e90ff;
+}
+.debug .window-small{
+    background-color: #ffc0cb;
+}
+.window-big{
+    width: 60%;
+}
+.window-small{
+    width: 40%;
+}
